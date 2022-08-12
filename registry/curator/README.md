@@ -48,3 +48,7 @@ Curator打包发布到Maven仓库的有以下依赖组件：（地址:https://se
 https://www.cnblogs.com/qingyunzong/p/8666288.html
 
 https://www.baeldung.com/apache-curator
+
+https://codeantenna.com/a/O7TDs5ZUJt
+
+https://blog.csdn.net/wo541075754/article/details/69138878?utm_source=gold_browser_extension
